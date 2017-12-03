@@ -48,6 +48,3 @@ title: 关于我
 
 <p> 
 
-
-{% include comments.html %}
-
