@@ -20,7 +20,7 @@ Git
 
 
 
-欢迎访问 <a target="_blank" href='https://github.com/buban521/buban521.github.io'>Github</a> ，谢谢~
+欢迎访问 <a target="_blank" href='https://github.com/buban521'>Github</a> ，谢谢~
 
 <p> 
 
